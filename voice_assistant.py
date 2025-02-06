@@ -151,3 +151,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+To run this code open terminal:
+-->python --version
+-->python3.12 -m pip install SpeechRecognition
+-->python -c "import speech_recognition; print('SpeechRecognition is installed successfully!')"
+-->python "c:/Users/S Thanvi/OneDrive/Desktop/oasis/Voice Assistant/voice_assistant.py"
